@@ -20,7 +20,10 @@
     "workbench.tree.renderIndentGuides": "always",
     "workbench.editor.enablePreview": false,
     "editor.fontFamily": "Jetbrains Mono, Menlo, Monaco, 'Courier New', monospace",
-    "workbench.iconTheme": "material-icon-theme"
+    "workbench.iconTheme": "material-icon-theme",
+    "files.exclude": {
+		"**/.git": false,
+	},
     "workbench.colorCustomizations": {
         "[Tokyo Night Storm]": {
             "editor.background": "#121a30"
