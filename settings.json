@@ -28,5 +28,7 @@
         "[Tokyo Night Storm]": {
             "editor.background": "#121a30"
         }
-    }
+    },
+    "gitlens.currentLine.enabled": false,
+    "git.blame.statusBarItem.enabled": false
 }
