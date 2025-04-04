@@ -3,7 +3,7 @@
     "explorer.confirmDelete": false,
     "editor.suggestSelection": "first",
     "vsintellicode.modify.editor.suggestSelection": "automaticallyOverrodeDefaultValue",
-    "python.defaultInterpreterPath": "/usr/local/bin/python3",
+    "python.defaultInterpreterPath": "/usr/bin/python3",
     "emmet.includeLanguages": { "javascript": "javascriptreact"},
     "emmet.triggerExpansionOnTab": true,
     "code-runner.runInTerminal": true,
